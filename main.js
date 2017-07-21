@@ -60,7 +60,7 @@ function init() {
 	context = canvas.getContext('2d');
 
 	zombieSprites.src = 'zombies.png';
-	doomguySprite.src = 'Memes.png';
+	doomguySprite.src = 'memes.png';
 	memeswarSprite.src = 'war.png';
 	
 
